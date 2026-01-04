@@ -3,12 +3,6 @@
 
 **VeritasStream** is an AI-powered security layer for video calls. It acts as a "Firewall for Human Connection," analyzing video feeds in real-time to detect deepfakes, AI face swaps, and financial scam attempts before they cause harm.
 
-Built for **[Insert Hackathon Name]**.
-
-![Demo Screenshot](image_f5dc5e.jpg)
-*(Replace this link with your actual screenshot url if needed)*
-
----
 
 ## 🚀 Key Features
 
@@ -43,5 +37,5 @@ Veritas uses a "Challenge-Response" protocol (Simon Says) to verify humanity.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/VeritasStream.git](https://github.com/YOUR_USERNAME/VeritasStream.git)
+git clone [https://github.com/vedashreeee/VeritasStream.git](https://github.com/vedashreeee/VeritasStream.git)
 cd VeritasStream
