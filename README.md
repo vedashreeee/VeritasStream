@@ -40,7 +40,7 @@ Veritas uses a "Challenge-Response" protocol (Simon Says) to verify humanity.
 To run this on your machine, copy these commands:
 
 ```bash
-git clone [https://github.com/vedashreeee/VeritasStream.git](https://github.com/vedashreeee/VeritasStream.git)
+git clone https://github.com/vedashreeee/VeritasStream.git
 cd VeritasStream
 pip install -r requirements.txt
 python main.py
